@@ -17,5 +17,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://kam535.github.io/test/manifests/garfield-park.json",
     "label" : "Garfield Park, West Chicago, Illinois"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://kam535.github.io/test/manifests/humboldt-park.json",
+    "label" : "Humboldt Park, West Chicago, Illinois"
   } ]
 }
