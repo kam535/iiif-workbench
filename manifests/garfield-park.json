@@ -1,6 +1,6 @@
 {
   "@context" : "http://iiif.io/api/presentation/2/context.json",
-  "@id" : "https://kam535.github.io/test/manifests/garfield-park.json",
+  "@id" : "https://cornell-colab.github.io/test/manifests/garfield-park.json",
   "@type" : "sc:Manifest",
   "label" : "Garfield Park, West Chicago, Illinois",
   "metadata" : [ {
