@@ -1,0 +1,13 @@
+{
+  "id" : "https://kam535.github.io/test/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in kam535/test project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://kam535.github.io/test/manifests/birds-eye-view-of-the-columbian.json",
+    "label" : "Birds eye view [of the] World's Columbian Exposition"
+  } ]
+}
