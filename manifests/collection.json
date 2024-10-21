@@ -21,5 +21,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://kam535.github.io/test/manifests/humboldt-park.json",
     "label" : "Humboldt Park, West Chicago, Illinois"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://kam535.github.io/test/manifests/chicago-south-park-commission-plan.json",
+    "label" : "Chicago South Park Commission plan of the South Open Ground, the Upper Plaisance, the Midway Plaisance, the Lake Open Ground, the Lagoon Plaisance and the Parkway Quadrant"
   } ]
 }
