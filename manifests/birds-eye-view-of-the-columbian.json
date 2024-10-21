@@ -21,7 +21,7 @@
     "@language" : "en"
   } ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",
-  "attribution" : "[Click to edit attribution]",
+  "attribution" : "Cornell University",
   "sequences" : [ {
     "@id" : "http://3e4103cf-e60d-45a1-b9a7-a82f1bfa7c06",
     "@type" : "sc:Sequence",
