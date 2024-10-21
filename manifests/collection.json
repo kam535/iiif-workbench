@@ -45,5 +45,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://kam535.github.io/test/manifests/plan-of-lincoln-park.json",
     "label" : "Plan of Lincoln Park and boulevards 1887"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://kam535.github.io/test/manifests/chicago-plan-of-a-complete-system.json",
+    "label" : "Chicago"
   } ]
 }
