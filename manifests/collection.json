@@ -29,5 +29,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://kam535.github.io/test/manifests/chicago-jas-wright.json",
     "label" : "Chicago"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://kam535.github.io/test/manifests/the-city-of-chicago.json",
+    "label" : "The city of Chicago"
   } ]
 }
