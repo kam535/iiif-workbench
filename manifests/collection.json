@@ -13,5 +13,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://kam535.github.io/test/manifests/territory-covered-by-the-principal-passenger.json",
     "label" : "Territory covered by the principal passenger associations of the United States"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://kam535.github.io/test/manifests/garfield-park.json",
+    "label" : "Garfield Park, West Chicago, Illinois"
   } ]
 }
