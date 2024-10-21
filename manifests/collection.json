@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://kam535.github.io/test/manifests/birds-eye-view-of-the-columbian.json",
     "label" : "Birds eye view [of the] World's Columbian Exposition"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://kam535.github.io/test/manifests/territory-covered-by-the-principal-passenger.json",
+    "label" : "Territory covered by the principal passenger associations of the United States"
   } ]
 }
