@@ -53,5 +53,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://kam535.github.io/test/manifests/chicago-at-the-millenium-side1.json",
     "label" : "Chicago at the millennium, a thousand years of change, side 1\n"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://kam535.github.io/test/manifests/chicago-at-the-millenium-side2.json",
+    "label" : "Chicago at the millennium, a thousand years of change, side 2\n"
   } ]
 }
