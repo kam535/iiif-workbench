@@ -57,5 +57,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://kam535.github.io/test/manifests/chicago-at-the-millenium-side2.json",
     "label" : "Chicago at the millennium, a thousand years of change, side 2\n"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://kam535.github.io/test/manifests/rand-mcnally-new-official-railroad-map.json",
+    "label" : "Rand, McNally & Co.'s new official railroad map of the United States and Canada"
   } ]
 }
