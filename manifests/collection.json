@@ -49,5 +49,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://kam535.github.io/test/manifests/chicago-plan-of-a-complete-system.json",
     "label" : "Chicago"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://kam535.github.io/test/manifests/chicago-at-the-millenium-side1.json",
+    "label" : "Chicago at the millennium, a thousand years of change, side 1\n"
   } ]
 }
