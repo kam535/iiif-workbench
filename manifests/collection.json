@@ -41,5 +41,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://kam535.github.io/test/manifests/rand-mcnally-new-indexed-standard-worlds-columbian.json",
     "label" : "Rand, McNally and Co.'s new indexed standard guide map of the World's Columbian Exposition, Chicago, 1893"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://kam535.github.io/test/manifests/plan-of-lincoln-park.json",
+    "label" : "Plan of Lincoln Park and boulevards 1887"
   } ]
 }
