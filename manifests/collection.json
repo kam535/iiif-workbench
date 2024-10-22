@@ -93,5 +93,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://kam535.github.io/test/manifests/map-railroads-state-ny-1885side1.json",
     "label" : "Railroads of the State of New York"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://kam535.github.io/test/manifests/map-railroads-state-ny-1885side2.json",
+    "label" : "Railroads of the State of New York"
   } ]
 }
