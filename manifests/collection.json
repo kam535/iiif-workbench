@@ -101,5 +101,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://kam535.github.io/test/manifests/six-nations-outline-map.json",
     "label" : "Six nations outline map of New York with location of Indian reservations ... 1890"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://kam535.github.io/test/manifests/territorial-division-aborigines-ny.json",
+    "label" : "Map of the territorial divisions of the Aborigines of New York."
   } ]
 }
