@@ -73,5 +73,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://kam535.github.io/test/manifests/nypl-nova-svecia.json",
     "label" : "Nova Svecia"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://kam535.github.io/test/manifests/nypl-nova-suecia.json",
+    "label" : "Nova Suecia, eller the Swenska Revier [now Delaware River] in India Occidentalis"
   } ]
 }
