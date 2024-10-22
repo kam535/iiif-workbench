@@ -77,5 +77,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://kam535.github.io/test/manifests/nypl-nova-suecia.json",
     "label" : "Nova Suecia, eller the Swenska Revier [now Delaware River] in India Occidentalis"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://kam535.github.io/test/manifests/map-railroads-state-ny-1869.json",
+    "label" : "Map of the railroads of the State of New York"
   } ]
 }
