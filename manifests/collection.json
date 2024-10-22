@@ -109,5 +109,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://kam535.github.io/test/manifests/tonawanda-reservation.json",
     "label" : "Map of Tonawanda Indian Reservation ... 1890."
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://kam535.github.io/test/manifests/tuscarora-reservation.json",
+    "label" : "Map of Tuscarora Indian Reservation ... 1890"
   } ]
 }
