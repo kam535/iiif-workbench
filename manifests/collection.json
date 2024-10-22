@@ -65,5 +65,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://kam535.github.io/test/manifests/nypl-lower-end-of-manhattan.json",
     "label" : "The lower end of Manhattan Island, as far north as Central Park, also the East River shorefront of Brooklyn, Williamsburg, and Greenpoint, and the New Jersey shoreline of Jersey City and Hoboken, Map VIII A"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://kam535.github.io/test/manifests/nypl-greater-ny.json",
+    "label" : "Greater New York and contigous territory, showing the Indian paths, together with the approximate situation of all known Indian stations, Map I"
   } ]
 }
