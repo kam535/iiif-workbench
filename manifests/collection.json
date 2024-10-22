@@ -85,5 +85,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://kam535.github.io/test/manifests/allegany-reservation.json",
     "label" : "Allegany Reservation of the Seneca Nation ... 1890"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://kam535.github.io/test/manifests/cattaraugus-reservation.json",
+    "label" : "Cattaraugus Reservation of the Seneca Nation ... 1890"
   } ]
 }
