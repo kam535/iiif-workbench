@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 64,
+    "height" : 80
+  }, {
+    "width" : 127,
+    "height" : 160
+  }, {
+    "width" : 254,
+    "height" : 320
+  }, {
+    "width" : 507,
+    "height" : 640
+  }, {
+    "width" : 1013,
+    "height" : 1280
+  }, {
+    "width" : 2026,
+    "height" : 2560
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2026,
+  "@id" : "https://kam535.github.io/test/images/bolton",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 2560
+}
