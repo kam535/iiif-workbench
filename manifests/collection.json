@@ -105,5 +105,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://kam535.github.io/test/manifests/territorial-division-aborigines-ny.json",
     "label" : "Map of the territorial divisions of the Aborigines of New York."
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://kam535.github.io/test/manifests/tonawanda-reservation.json",
+    "label" : "Map of Tonawanda Indian Reservation ... 1890."
   } ]
 }
