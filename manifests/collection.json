@@ -81,5 +81,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://kam535.github.io/test/manifests/map-railroads-state-ny-1869.json",
     "label" : "Map of the railroads of the State of New York"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://kam535.github.io/test/manifests/allegany-reservation.json",
+    "label" : "Allegany Reservation of the Seneca Nation ... 1890"
   } ]
 }
