@@ -61,5 +61,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://cornell-colab.github.io/test/manifests/rand-mcnally-new-official-railroad-map.json",
     "label" : "Rand, McNally & Co.'s new official railroad map of the United States and Canada"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://kam535.github.io/test/manifests/nypl-lower-end-of-manhattan.json",
+    "label" : "The lower end of Manhattan Island, as far north as Central Park, also the East River shorefront of Brooklyn, Williamsburg, and Greenpoint, and the New Jersey shoreline of Jersey City and Hoboken, Map VIII A"
   } ]
 }
