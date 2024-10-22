@@ -97,5 +97,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://kam535.github.io/test/manifests/map-railroads-state-ny-1885side2.json",
     "label" : "Railroads of the State of New York"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://kam535.github.io/test/manifests/six-nations-outline-map.json",
+    "label" : "Six nations outline map of New York with location of Indian reservations ... 1890"
   } ]
 }
