@@ -113,5 +113,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://kam535.github.io/test/manifests/tuscarora-reservation.json",
     "label" : "Map of Tuscarora Indian Reservation ... 1890"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://kam535.github.io/test/manifests/territorial-divisions-aborigines-ny.json",
+    "label" : "Map of the territorial divisions of the Aborigines of New York"
   } ]
 }
