@@ -89,5 +89,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://kam535.github.io/test/manifests/cattaraugus-reservation.json",
     "label" : "Cattaraugus Reservation of the Seneca Nation ... 1890"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://kam535.github.io/test/manifests/map-railroads-state-ny-1885side1.json",
+    "label" : "Railroads of the State of New York"
   } ]
 }
