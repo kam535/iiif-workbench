@@ -69,5 +69,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://kam535.github.io/test/manifests/nypl-greater-ny.json",
     "label" : "Greater New York and contigous territory, showing the Indian paths, together with the approximate situation of all known Indian stations, Map I"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://kam535.github.io/test/manifests/nypl-nova-svecia.json",
+    "label" : "Nova Svecia"
   } ]
 }
