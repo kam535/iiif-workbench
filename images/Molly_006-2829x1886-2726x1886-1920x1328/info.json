@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 60,
+    "height" : 42
+  }, {
+    "width" : 120,
+    "height" : 83
+  }, {
+    "width" : 240,
+    "height" : 166
+  }, {
+    "width" : 480,
+    "height" : 332
+  }, {
+    "width" : 960,
+    "height" : 664
+  }, {
+    "width" : 1920,
+    "height" : 1328
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1920,
+  "@id" : "http://localhost:8887/iiif/Molly_006-2829x1886-2726x1886-1920x1328",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1328
+}
