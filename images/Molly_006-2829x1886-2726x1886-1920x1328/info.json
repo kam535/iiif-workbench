@@ -26,7 +26,7 @@
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 1920,
-  "@id" : "http://localhost:8887/iiif/Molly_006-2829x1886-2726x1886-1920x1328",
+  "@id" : "http://kam535.github.io/iiif-workbench/images/Molly_006-2829x1886-2726x1886-1920x1328",
   "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 1328
 }
