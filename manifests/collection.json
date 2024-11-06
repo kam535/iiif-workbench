@@ -25,5 +25,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://kam535.github.io/test/manifests/chicago-school-section-wabansia-kinzie.json",
     "label" : "Chicago with the School section, Wabansia, and Kinzie's addition"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://kam535.github.io/test/manifests/before-great-fire-birds-eye-view-chicago.json",
+    "label" : "Bird's-eye view of Chicago as it was before the great fire"
   } ]
 }
