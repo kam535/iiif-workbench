@@ -1,0 +1,13 @@
+{
+  "id" : "https://kam535.github.io/test/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in kam535/iiif-workbench project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://kam535.github.io/test/manifests/chicago-and-northwestern-railway.json",
+    "label" : "Chicago and North-Western Railway: The North-Western line"
+  } ]
+}
