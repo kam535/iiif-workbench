@@ -21,5 +21,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://kam535.github.io/test/manifests/1893-birds-eye-view-chicago.json",
     "label" : "Bird's eye view of Chicago, 1893"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://kam535.github.io/test/manifests/chicago-school-section-wabansia-kinzie.json",
+    "label" : "Chicago with the School section, Wabansia, and Kinzie's addition"
   } ]
 }
