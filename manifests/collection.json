@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://kam535.github.io/test/manifests/chicago-and-northwestern-railway.json",
     "label" : "Chicago and North-Western Railway: The North-Western line"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://kam535.github.io/test/manifests/map-of-chicago.json",
+    "label" : "Map of Chicago"
   } ]
 }
