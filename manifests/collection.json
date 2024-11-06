@@ -17,5 +17,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://kam535.github.io/test/manifests/street-number-guide-map-chicago.json",
     "label" : "Street number guide map of the principal part of Chicago"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://kam535.github.io/test/manifests/1893-birds-eye-view-chicago.json",
+    "label" : "Bird's eye view of Chicago, 1893"
   } ]
 }
