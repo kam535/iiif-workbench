@@ -13,5 +13,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://kam535.github.io/test/manifests/map-of-chicago.json",
     "label" : "Map of Chicago"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://kam535.github.io/test/manifests/street-number-guide-map-chicago.json",
+    "label" : "Street number guide map of the principal part of Chicago"
   } ]
 }
